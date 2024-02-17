@@ -3,7 +3,8 @@ HTML i.e., Hyper Text Markup Language is used to create the structure of the web
 ### CSS
 CSS i.e., Cascading styles sheet is used to design the website.
 ### Javascript 
-It is used to manipulate the data of the website.
+It is used to manipulate the data of the website. <br>
+Notes -> [Javascript](/Javascript/JS_notes.md)
 
 ## MEARN stands for
 M- MongoDB <br>

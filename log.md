@@ -12,8 +12,8 @@ Comments and colors<br>
 Background and Border<br>
 Font Size<br>
 
-## JavaScipt
-Basic Fuctions<br>
+## JavaScript
+Basic Functions<br>
 Operators<br>
 Function events<br>
 If Else<br>
