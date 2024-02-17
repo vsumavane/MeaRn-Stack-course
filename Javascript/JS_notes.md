@@ -1,5 +1,5 @@
 # Introduction
-JS is the worlds most popular langauage. Initially it was only created for frontend technology.
+JS is the worlds most popular langauage. Initially it was only created for front-end technology.
 
 ```html
 <script>
@@ -25,5 +25,8 @@ function sample(){
     //function statements
 }
 ```
-JS code examples:
-[On click alert](../Javascript/on_click_alert.html), [arithmetic operations](../Javascript/js_operations.html)
+JS code List:
+- [Basic alert](../Javascript/Test%20files/JS_alert_test.html)
+- [Basic Functions](../Javascript/Test%20files/JS_basic_func.html)
+- [On click alert](../Javascript/on_click_alert.html)
+- [Arithmetic operations](../Javascript/js_operations.html)
